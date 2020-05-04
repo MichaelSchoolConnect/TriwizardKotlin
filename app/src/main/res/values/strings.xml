@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TriwizardKotlin</string>
+    <string name="houses">Houses</string>
+    <string name="students">Students</string>
+    <string name="spells">Spells</string>
+    <string name="information">Information</string>
+    <string name="gryffindor">Gryffindor</string>
+</resources>
