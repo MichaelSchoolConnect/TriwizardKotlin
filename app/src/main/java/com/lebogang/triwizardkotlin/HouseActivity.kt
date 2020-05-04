@@ -62,7 +62,7 @@ class HouseActivity : AppCompatActivity() {
 
         // Observe the view model
         viewModel.getHousesLiveData()
-            ?.observe(this, object : Observer List < Houses >() {
+            ?.observe(this, object : Observer<List<Houses>> {
                 fun onChanged(housesList: List<Houses?>?) {
                     //Updating the UI.
                     contentLoadingProgressBar.hide()

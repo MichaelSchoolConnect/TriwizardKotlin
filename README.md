@@ -1,3 +1,5 @@
+###Note###
+This is a demo app based on Kotlin just to modularity.
 
 ###ReadMe###
 1. Activity observes LiveData from ViewModel
